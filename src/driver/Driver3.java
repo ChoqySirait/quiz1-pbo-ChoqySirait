@@ -86,7 +86,7 @@ public class Driver3 {
             System.out.println("gambar : " + inputGambar);
         }
 
-        System.out.println("segera diproses");
+        System.out.println("Segera Di proses");
         System.out.println("\nTerimakasih :)\n");
 
         sc.close();
